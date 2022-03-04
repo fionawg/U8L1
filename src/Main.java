@@ -46,6 +46,5 @@ public class Main {
                 System.out.println(Arrays.toString(innerArr));
             }
             System.out.println(arr1[0][2] + arr2[2][0]);
-
     }
 }
